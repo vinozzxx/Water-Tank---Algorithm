@@ -117,10 +117,3 @@ water = min(leftMax, rightMax) - height[i]
 **Vinothkumar**
 Aspiring Data Scientist 
 
-
-
-Give it a ⭐ on GitHub and feel free to fork or improve it!
-
----
-
-Happy Coding 😊
